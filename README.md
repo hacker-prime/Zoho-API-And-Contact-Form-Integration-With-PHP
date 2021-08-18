@@ -16,4 +16,8 @@ The ability to do this was due to using two tutorials or sources. They include t
 - PHP Code To Insert Ticket Automatically
 	> https://help.zoho.com/portal/en/community/topic/php-code-to-insert-ticket-automatically-22-4-2021
 
+Check the demonstration of this on YouTube
+
+  > https://www.youtube.com/watch?v=AQXSMQvxEOI
+
 I felt the need to make this because I found the process of doing this so tedious. It took me days of reading, reaching out to customer support and testing to make this work. I wished something like what I've finally stiched togther was available from the get go to make things easier.I hope this helps you 🙂.
